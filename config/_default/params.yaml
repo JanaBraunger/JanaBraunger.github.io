@@ -1,0 +1,44 @@
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: "Jana Braunger"
+    type: person
+    tagline: PhD student in computational biology
+    description: Hi, I am Jana Braunger, a PhD student in computational biology at Heidelberg University.
+  theme:
+    mode: system
+    pack: default
+    colors:
+      primary: ""
+      secondary: ""
+      neutral: ""
+  typography:
+    font: sans
+    size: md
+  layout:
+    radius: md
+    spacing: comfortable
+    avatar_shape: circle
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: right
+    search: false
+    theme_toggle: false
+  footer:
+    style: minimal
+    language_switcher: false
+  copyright:
+    notice: © {year} {name}
+  content:
+    math:
+      enable: false
+    toc:
+      enable: false
+    reading_time:
+      enable: false
+  search:
+    enable: false
+custom_css: 
+  - css/custom.css
