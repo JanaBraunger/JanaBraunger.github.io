@@ -2,6 +2,12 @@
 ---
 
 # Publications
+## Preprints
+[**Genome-scale mapping of variant, enhancer and gene function in primary human CD4+ T cells**](https://www.biorxiv.org/content/10.64898/2026.03.09.710372v1)  
+Moonen, D.P.I., Claringbould, A., Gschwind, A.R., Schrod, S., **Braunger, J.M.**, Feng, C., Rauscher, B., Yi, J., Bi, S.Z., Matthess, Y., Kaulich, M., Acob, R.A., Ayer, A., Engreitz, J.M., Velten, B., Stegle, O., Trynka, G., Zaugg, J.B., Schraivogel, D., Steinmetz, L.M.   
+*bioRxiv*, 2026
+
+## Journal Articles
 [**A genome-scale single-cell CRISPRi map of trans gene regulation across human pluripotent stem cell lines**](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00332-5)  
 Feng, C., Peets, E.M., Zhou, Y., Crepaldi, L., Usluer, S., Dunham, A., **Braunger, J.M.**, Su, J., Strauss, M.E., Muraro, D., Cheam, K.A.X., Bonder, M.J., Garriga Nogales, E., Cooper, S., Bassett, A., Leonard, S., Gu, Y., Fussing, B., Burke, D., Parts, L., Stegle, O., Velten, B.  
 *Cell Genomics*, 2026  

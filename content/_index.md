@@ -27,6 +27,6 @@ sections:
         shape: circle
       spacing:
         padding:
-          top: 0rem
-          bottom: 0rem
+          top: 2rem
+          bottom: 2rem
 ---

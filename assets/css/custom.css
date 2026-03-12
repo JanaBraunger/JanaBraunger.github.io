@@ -1,10 +1,9 @@
 /* Override Tailwind prose container width */
-.prose.lg\:prose-xl {
-  max-width: 1000px !important;
-}
-/* Override Tailwind prose container width */
+.prose.lg\:prose-xl,
 .page-body .max-w-prose {
-  max-width: 1000px !important;
+  max-width: 1200px !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 /* Reduce padding for Hugo Blox sections */
 .hbb-section > div {
