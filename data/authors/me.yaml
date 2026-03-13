@@ -28,7 +28,7 @@ links:
     url: mailto:jana.braunger@cos.uni-heidelberg.de
     label: E-mail Me
   - icon: brands/linkedin
-    url: www.linkedin.com/in/jana-braunger
+    url: https://www.linkedin.com/in/jana-braunger 
   - icon: brands/github
     url: https://github.com/JanaBraunger
   - icon: academicons/google-scholar
