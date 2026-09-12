@@ -8,6 +8,10 @@ Moonen, D.P.I., Claringbould, A., Gschwind, A.R., Schrod, S., **Braunger, J.M.**
 *bioRxiv*, 2026
 
 ## Journal Articles
+[**msBayesImpute as a versatile framework for addressing missing values in biomedical mass spectrometry proteomics data**](https://www.nature.com/articles/s42004-026-02106-3)
+He, J., Helm, B., Gödtel, F., Büchner, K., Schilling, M., Schneider, M.A., Klotz, L.V., **Braunger, J.M.**, Winter, H., Velten, B., Klingmüller, U., Lu, J.
+*Communications Chemistry*, 2026
+
 [**A genome-scale single-cell CRISPRi map of trans gene regulation across human pluripotent stem cell lines**](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00332-5)  
 Feng, C., Peets, E.M., Zhou, Y., Crepaldi, L., Usluer, S., Dunham, A., **Braunger, J.M.**, Su, J., Strauss, M.E., Muraro, D., Cheam, K.A.X., Bonder, M.J., Garriga Nogales, E., Cooper, S., Bassett, A., Leonard, S., Gu, Y., Fussing, B., Burke, D., Parts, L., Stegle, O., Velten, B.  
 *Cell Genomics*, 2026  

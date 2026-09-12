@@ -10,14 +10,18 @@ name:
   pronouns: ''
 role: PhD student
 bio: |
-  I am a third-year PhD student in the Velten group at Heidelberg University, developing 
+  I am a PhD student in the Velten group at Heidelberg University, developing 
   probabilistic models to study the functional 
   consequences of genetic perturbations in single-cell CRISPR screens. Before starting my PhD, 
   I studied Molecular Biotechnology 
   at Heidelberg University (BSc) and Biomathematics at the University of Greifswald (MSc). During my 
   master’s thesis with Prof. Caroline Uhler at the Broad Institute of MIT and Harvard in Boston, I worked on 
   computational approaches linking 
-  transcriptional changes to chromatin reorganization during aging.
+  transcriptional changes to chromatin reorganization during aging. You can read more about the path that led 
+  me to computational biology in an [interview](https://www.lindau-nobel.org/blog-women-in-research-lino75-jana-braunger/) 
+  I gave for the *Women in Research* series on the Lindau Nobel Laureate 
+  Meeting blog, following my participation in the 75th Lindau Nobel Laureate Meeting in 2026.
+
 
 affiliations:
   - name: Velten group @ Heidelberg University
