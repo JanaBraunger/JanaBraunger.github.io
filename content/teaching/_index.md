@@ -19,7 +19,7 @@ I am involved in teaching and student supervision in the areas of computational 
 
 
 ## Supervision of Students
-- **Modelling perturbation effects in multi-omics single-cell CRISPR screens**
+- **Modelling perturbation effects in multi-omics single-cell CRISPR screens**  
   *Master internship (Mar. - Jul. 2026)*
 
 - **Comparative analysis of gene expression patterns across tissues in mammalian development**  
